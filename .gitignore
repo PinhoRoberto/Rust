@@ -1,1 +1,5 @@
+# Ignorar arquivos binários gerados
+*.exe
+*.pdb
 /target
+.target/
